@@ -1,5 +1,5 @@
 # aod
-NN for AOD prediction
+NN quick start
 
 # Install instructions
 
